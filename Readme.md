@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Check status][check-image]][check-url]
 
 * Студент: [Кирилл Волков](https://up.htmlacademy.ru/adaptive/21/user/1184141).
-* Наставник: `Неизвестно`.
+* Наставник: [Магомед Кандаев](https://htmlacademy.ru/profile/magomedkandaev)
 
 ---
 
